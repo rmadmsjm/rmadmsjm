@@ -1,6 +1,6 @@
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=JEONGMIN%20EUN&fontSize=75&fontAlignY=40)
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=250&section=header&text=JEONGMIN%20EUN&fontSize=70)
 
 </div>
 
@@ -43,8 +43,3 @@
   <br>
 </div>
 
-<div align=center>
-  
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&%20render)
-
-</div>
