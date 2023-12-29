@@ -1,6 +1,6 @@
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=250&section=header&text=JEONGMIN%20EUN&fontSize=70)
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=250&section=header&text=JEONGMIN%20EUN&fontSize=70&stroke=495057)
 
 </div>
 
